@@ -95,4 +95,5 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: github
+  repo: https://github.com/VarLong/Hexo_GitHub.git

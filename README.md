@@ -1,7 +1,7 @@
     
     https://hexo.io/zh-cn/docs/github-pages.html
     
-    Token:568df04febd87be473d4e7fbac9463c4b34a42e7
+    Token:f4b639866c1feca3a6bfd8a7ca2a20ba4694f161
     
     npm install -g hexo
 

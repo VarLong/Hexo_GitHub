@@ -69,13 +69,11 @@
 
     编辑全局配置文件：_config.yml，找到deploy的部分，设置github的项目地址。
 
-    '''
     deploy:
     type: github
     repo: git@github.com:bsspirit/nodejs-hexo.git
-    '''
 
-    然后，通过命令进行部署。hexo deploy
+    然后，通过命令进行部署 hexo deploy
 
     这个静态的web网站就被部署到了github，检查一下分支是gh-pages。gh-pages是github为了web项目特别设置的分支。
 

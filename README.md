@@ -2,6 +2,8 @@
     https://hexo.io/zh-cn/docs/github-pages.html
     
     Token:e8e41beeb5f1ae1c7baa572adc9f39cb5bad6cf2
+    
+    b747269c206be99c1044f22f7a67cc9eb6930b51
 
     mgEQMcExIGIWPuQG8sPvnQ
     
